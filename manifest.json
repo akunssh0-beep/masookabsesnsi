@@ -1,11 +1,11 @@
 {
   "name": "MASOOK PKM",
   "short_name": "MASOOK PKM",
-  "start_url": "index.html?v=1777134827929",
+  "start_url": "index.html?v=1777144848612",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#3b82f6",
-  "version": "1777134827929",
+  "version": "1777144848612",
   "icons": [
     {
       "src": "icon-192.png",
